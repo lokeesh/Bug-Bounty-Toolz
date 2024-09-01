@@ -1,3 +1,3 @@
 ### BBT - My Bug Bounty Tools
 
-My bug bounty tools
+friends bug bounty tools i coied 
